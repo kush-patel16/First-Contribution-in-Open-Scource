@@ -114,6 +114,11 @@
 		            <sub><b>  Yash Parmar  </b></sub>
 		            </a>
 	    </td>
+		 <a href="https://github.com/kush-patel16">
+		            <img src="https://avatars.githubusercontent.com/u/126253137?v=4" width="100px;"/>
+		            <br />
+		            <sub><b>  kush patel  </b></sub>
+		            </a>
 	    </td>
         </tr>
     </tbody>
